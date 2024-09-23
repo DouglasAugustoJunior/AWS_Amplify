@@ -1,0 +1,10 @@
+{
+  "resourceName": "amplifydynamoDB",
+  "tableName": "amplifydynamoDB",
+  "partitionKey": {
+    "fieldName": "items",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
